@@ -1,2 +1,0 @@
-document.getElementById("root").innerHTML='\n  <header>\n    <h1>Welcome to My Portfolio</h1>\n  </header>\n  <div class="container">\n    <h2>About Me</h2>\n    <p>Hello! I am a passionate web developer building amazing things.</p>\n  </div>\n  <footer>\n    <p>&copy; 2025 My Portfolio</p>\n  </footer>\n';
-//# sourceMappingURL=main.49cab5cc.js.map
